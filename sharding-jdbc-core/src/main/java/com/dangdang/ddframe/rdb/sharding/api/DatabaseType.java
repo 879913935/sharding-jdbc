@@ -26,7 +26,7 @@ import com.dangdang.ddframe.rdb.sharding.exception.DatabaseTypeUnsupportedExcept
  */
 public enum DatabaseType {
     
-    H2, MySQL, Oracle, SQLServer, DB2,NEWVersion;
+    H2, MySQL, Oracle, SQLServer, DB2,NEWVersion2;
     
     /**
      * 获取数据库类型枚举.
